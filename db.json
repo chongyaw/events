@@ -1,0 +1,291 @@
+{
+    "event": [
+        {
+            "event_id": 1,
+            "entity_id": 1,
+            "session_id": "S000101",
+            "event": "home_page",
+            "datestamp": "2024-09-04 15:00:00",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "email"
+        },
+        {
+            "event_id": 2,
+            "entity_id": 1,
+            "session_id": "S000101",
+            "event": "product_view",
+            "datestamp": "2024-09-04 15:01:02",
+            "product_id": 1044,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "direct"
+        },
+        {
+            "event_id": 3,
+            "entity_id": 1,
+            "session_id": "S000101",
+            "event": "add_to_cart",
+            "datestamp": "2024-09-04 15:01:56",
+            "product_id": 1038,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "organic"
+        },
+        {
+            "event_id": 4,
+            "entity_id": 1,
+            "session_id": "S000101",
+            "event": "checkout_start",
+            "datestamp": "2024-09-04 15:02:21",
+            "product_id": null,
+            "cart_value": 55.91,
+            "device_type": "mobile",
+            "channel": "direct"
+        },
+        {
+            "event_id": 5,
+            "entity_id": 1,
+            "session_id": "S000101",
+            "event": "abandon_cart",
+            "datestamp": "2024-09-04 15:02:44",
+            "product_id": null,
+            "cart_value": 285.01,
+            "device_type": "tablet",
+            "channel": "direct"
+        },
+        {
+            "event_id": 6,
+            "entity_id": 1,
+            "session_id": "S000102",
+            "event": "home_page",
+            "datestamp": "2024-09-07 02:00:00",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "organic"
+        },
+        {
+            "event_id": 7,
+            "entity_id": 1,
+            "session_id": "S000102",
+            "event": "product_view",
+            "datestamp": "2024-09-07 02:01:31",
+            "product_id": 1045,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 8,
+            "entity_id": 1,
+            "session_id": "S000102",
+            "event": "search",
+            "datestamp": "2024-09-07 02:04:03",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "email"
+        },
+        {
+            "event_id": 9,
+            "entity_id": 1,
+            "session_id": "S000102",
+            "event": "product_view",
+            "datestamp": "2024-09-07 02:07:05",
+            "product_id": 1007,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "social"
+        },
+        {
+            "event_id": 10,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "home_page",
+            "datestamp": "2024-09-10 03:00:00",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "organic"
+        },
+        {
+            "event_id": 11,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "search",
+            "datestamp": "2024-09-10 03:04:05",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "organic"
+        },
+        {
+            "event_id": 12,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "product_view",
+            "datestamp": "2024-09-10 03:07:28",
+            "product_id": 1006,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 13,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "add_to_cart",
+            "datestamp": "2024-09-10 03:10:43",
+            "product_id": 1037,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "organic"
+        },
+        {
+            "event_id": 14,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "remove_from_cart",
+            "datestamp": "2024-09-10 03:11:16",
+            "product_id": 1043,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 15,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "product_view",
+            "datestamp": "2024-09-10 03:12:06",
+            "product_id": 1015,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "social"
+        },
+        {
+            "event_id": 16,
+            "entity_id": 1,
+            "session_id": "S000103",
+            "event": "abandon_cart",
+            "datestamp": "2024-09-10 03:14:38",
+            "product_id": null,
+            "cart_value": 232.17,
+            "device_type": "desktop",
+            "channel": "email"
+        },
+        {
+            "event_id": 17,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "home_page",
+            "datestamp": "2024-09-23 11:00:00",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "email"
+        },
+        {
+            "event_id": 18,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "product_view",
+            "datestamp": "2024-09-23 11:04:43",
+            "product_id": 1047,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "email"
+        },
+        {
+            "event_id": 19,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "add_to_cart",
+            "datestamp": "2024-09-23 11:08:49",
+            "product_id": 1025,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "direct"
+        },
+        {
+            "event_id": 20,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "checkout_start",
+            "datestamp": "2024-09-23 11:10:51",
+            "product_id": null,
+            "cart_value": 345.46,
+            "device_type": "mobile",
+            "channel": "email"
+        },
+        {
+            "event_id": 21,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "payment_entry",
+            "datestamp": "2024-09-23 11:11:17",
+            "product_id": null,
+            "cart_value": 404.47,
+            "device_type": "desktop",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 22,
+            "entity_id": 2,
+            "session_id": "S000201",
+            "event": "purchase_complete",
+            "datestamp": "2024-09-23 11:12:00",
+            "product_id": null,
+            "cart_value": 113.38,
+            "device_type": "tablet",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 23,
+            "entity_id": 3,
+            "session_id": "S000301",
+            "event": "home_page",
+            "datestamp": "2024-09-14 06:00:00",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "mobile",
+            "channel": "email"
+        },
+        {
+            "event_id": 24,
+            "entity_id": 3,
+            "session_id": "S000301",
+            "event": "search",
+            "datestamp": "2024-09-14 06:04:57",
+            "product_id": null,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 25,
+            "entity_id": 3,
+            "session_id": "S000301",
+            "event": "product_view",
+            "datestamp": "2024-09-14 06:08:46",
+            "product_id": 1038,
+            "cart_value": null,
+            "device_type": "desktop",
+            "channel": "paid_search"
+        },
+        {
+            "event_id": 26,
+            "entity_id": 3,
+            "session_id": "S000301",
+            "event": "product_view",
+            "datestamp": "2024-09-14 06:10:48",
+            "product_id": 1009,
+            "cart_value": null,
+            "device_type": "tablet",
+            "channel": "social"
+        }
+    ]
+}
+  
